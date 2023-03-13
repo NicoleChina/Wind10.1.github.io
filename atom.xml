@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nicolechina.github.io/Wind10.1.github.io/</id>
+    <title>Wind</title>
+    <updated>2023-03-13T05:43:24.803Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nicolechina.github.io/Wind10.1.github.io/"/>
+    <link rel="self" href="https://nicolechina.github.io/Wind10.1.github.io/atom.xml"/>
+    <subtitle>记得开心</subtitle>
+    <logo>https://nicolechina.github.io/Wind10.1.github.io/images/avatar.png</logo>
+    <icon>https://nicolechina.github.io/Wind10.1.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Wind</rights>
+    <entry>
+        <title type="html"><![CDATA[ “有一天，我把我的日常拍成了一部电影”]]></title>
+        <id>https://nicolechina.github.io/Wind10.1.github.io/post/you-yi-tian-wo-ba-wo-de-ri-chang-pai-cheng-liao-yi-bu-dian-ying/</id>
+        <link href="https://nicolechina.github.io/Wind10.1.github.io/post/you-yi-tian-wo-ba-wo-de-ri-chang-pai-cheng-liao-yi-bu-dian-ying/">
+        </link>
+        <updated>2023-03-13T04:24:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“人望月 鱼窥河”]]></title>
+        <id>https://nicolechina.github.io/Wind10.1.github.io/post/you-yi-tian-wo-ba-wo-de-ri-chang-pai-cheng-liao-yi-bu-dian-ying-1/</id>
+        <link href="https://nicolechina.github.io/Wind10.1.github.io/post/you-yi-tian-wo-ba-wo-de-ri-chang-pai-cheng-liao-yi-bu-dian-ying-1/">
+        </link>
+        <updated>2023-03-13T02:30:31.000Z</updated>
+    </entry>
+</feed>
